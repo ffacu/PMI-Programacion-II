@@ -1,0 +1,30 @@
+*
+AWS
+Servicios en la nube para hosting, bases de datos y computación a gran escala
+*
+Docker
+Plataforma de software que le permite crear, probar e implementar aplicaciones rápidamente
+*
+Fritzing
+Herramienta para diseñar prototipos electrónicos
+*
+Hostinger
+Servidor VPS
+*
+MySQL
+Base de datos relacional
+*
+Osciloscopio
+Para analizar señales electrónicas
+*
+PlatformIO
+Entorno para desarrollo de proyectos IoT y embebidos
+*
+PostgreSQL
+Base de datos relacional
+*
+Raspberry Pi
+Computadora de bajo costo para prototipos y proyectos de IoT
+*
+TensorFlow
+Biblioteca para machine learning e inteligencia artificial

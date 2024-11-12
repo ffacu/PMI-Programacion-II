@@ -1,0 +1,84 @@
+2
+Diseño de un Sensor de Temperatura Inalámbrico
+Proyecto de desarrollo de un sensor IoT para medir la temperatura en entornos industriales
+20000
+1/7/2024
+15/2/2025
+Sensor IoT
+*
+12345682
+Ingenieros
+*
+AWS
+Recursos
+1598
+1
+Sistema de Gestión de Inventarios
+Proyecto para el desarrollo de una aplicación que gestiona inventarios para pequeñas y medianas empresas
+40000045
+15/6/2024
+30/12/2024
+Aplicación de escritorio
+*
+40378521
+*
+12345679
+Ingenieros
+*
+PostgreSQL
+*
+Docker
+Recursos
+259877
+1
+Plataforma de Aprendizaje Online
+Desarrollo de una plataforma web interactiva para impartir cursos en línea
+850000
+22/10/2024
+30/5/2025
+Aplicación web
+Ingenieros
+Recursos
+508260
+2
+Desarrollo de un dispositivo IoT
+Proyecto de desarrollo de hardware para IoT
+1500045
+1/10/2023
+23/5/2024
+Dispositivo IoT
+*
+12345679
+Ingenieros
+*
+PlatformIO
+*
+Raspberry Pi
+Recursos
+622906
+1
+Prueba
+Prueba
+100000
+5/11/2024
+20/11/2024
+Prueba
+Ingenieros
+Recursos
+740176
+2
+Prototipo de nuevo dispositivo móvil
+Proyecto para crear un prototipo de smartphone
+7000000
+3/10/2024
+7/2/2025
+Smartphone
+*
+12345682
+Ingenieros
+*
+Fritzing
+*
+Osciloscopio
+Recursos
+776533

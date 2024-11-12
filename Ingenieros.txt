@@ -1,0 +1,35 @@
+*
+40378521
+Tomás
+Ortiz
+ortiztomas@outlook.com
+12/10/2024
+Inteligencia Artificial
+*
+44738395
+Facundo
+Farias
+fariasfacundo@outlook.com
+10/4/2020
+Cyberseguridad
+*
+12345679
+Maria
+Garcia
+maria.garcia@gmail.com
+20/2/2018
+Desarrollador Frontend
+*
+44953361
+Juan Cruz
+Paez
+juancruzpaez@gmail.com
+15/12/2018
+Desarrollador Backend
+*
+12345682
+Maria Luisa
+Magallanes
+marialuisamagallanes@gmail.com
+5/8/2018
+Ingeniero Electrónico
