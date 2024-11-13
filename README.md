@@ -1,4 +1,4 @@
-# Sistema de Gestión de Proyectos Tecnológicos en una Empresa Innovadora
+# Sistema de Gestión de Proyectos Tecnológicos
 
 ###### Práctico de Máquina Integrador para la materia Programación II, perteneciente a la carrera Ingeniería en Informática de la Universidad Nacional de San Luis
 
